@@ -1,5 +1,5 @@
 class HelloWorld
-  def self.hello
-    p "Hello, World!"
+  def self.hello(name = "World")
+    "Hello, #{name}!"
   end
 end
