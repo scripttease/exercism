@@ -15,3 +15,5 @@ The submission directory location is not clear from the documentation.
 ## Time not used as a metric of success
 
 The computation time is a poor metric of success (used in one of the elixir problems, maybe others) because of different computer speeds - could use 'evaluates faster than it takes your comomputer to complete this computation'
+
+## How to submit on new devs page
